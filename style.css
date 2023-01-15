@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@300&display=swap');
+
+body{
+    margin:0;
+}
+h3{
+    color: rgb(26,87,27);
+    font-size: 35px;
+    font-family: 'Comic Neue', cursive;
+}
+
+header{
+    background-color: rgb(206,241,206);
+    font-size: 50px;
+}
+nav{
+    display: flex;
+    font-size: 25px;
+    color:black;
+    justify-content: flex-end;
+    align-items: flex-start;
+    font-family: 'Comic Neue', cursive;
+}
+main{
+    background-color:mediumaquamarine;
+    color:rgb(55, 81, 91);
+    font-size: 25px;    
+    font-family: 'Comic Neue', cursive;
+}
+footer{
+    background-color: green;
+    color: lime;
+    font-family: 'Comic Neue', cursive;
+}
+html{
+    background-image:url(OboiDaErismann60059-07.jpeg);
+    background-attachment: fixed;
+}
